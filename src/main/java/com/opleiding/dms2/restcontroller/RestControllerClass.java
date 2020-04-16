@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 enum ServiceStatus {
 
-    LOGIN_SUCCESS(10, "Login success");
+    LOGIN_SUCCESS(10, "Login Is success");
 
     private final int id;
     private final String message;
